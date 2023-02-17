@@ -1,0 +1,184 @@
+.top-container {
+background-color: #F6F7C1;
+position: relative;
+padding-top: 100px;
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+font-family: 'Merriweather', cursive;}
+
+h1 {
+display: block;
+    font-size: 2em;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+    color: #66BFBF;
+    }
+
+h2 {
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+color: #66BFBF;
+margin: 0px;
+}
+
+h3 {
+font-family: 'Montserrat', sans-serif
+color: #11999E;
+}
+
+.middle-container {
+
+}
+
+
+.bottom-container {
+
+}
+
+.pro {
+text-decoration: underline;}
+
+.top-cloud {
+position: absolute;
+top: 50px;
+right: 300px;
+}
+.bottom-cloud {
+position: absolute;
+left: 300px;
+bottom: 300px;
+
+}
+
+.profile {
+background-color: #CDE990;
+margin: 0;
+padding-bottom: 40px;
+padding-top: 40px;
+
+}
+
+.my_img {
+border-radius: 50%;
+border: solid 2px;
+border-color: blue;
+}
+.skill1 {
+border-radius: 50%;
+border: solid 2px;
+border-color: blue;
+width: 200px;
+float: left;
+margin-right: 30px;
+}
+
+p {
+margin-bottom: 0;}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    background-color: #FFD4D4;
+
+}
+
+.skills {
+background-color: #F9F54B;
+padding: 40px;
+}
+
+.contact-me {
+background-color: #D61355;
+padding: 40px;
+}
+
+.bottom {
+background-color: #97DECE;
+}
+
+.ganesha {
+position: relative;
+right: 343px;
+bottom: 270px;
+}
+
+.hii {
+position: relative;
+}
+
+.mid-cloud {
+position: relative;
+top: 200px;
+left: 200px;
+}
+
+.extra {
+position: relative;
+left: 200px;
+}
+
+a {
+color: #11999E;
+text-decoration: none;
+}
+
+.programmer {
+color: #11999E;
+font-weight: normal;
+}
+
+.skill-row {
+margin: 50px auto;
+width: 50%;
+line-height: 2;
+}
+
+.hobbies {
+width: 50%;
+margin: 100px auto 0px;
+line-height: 2;
+
+}
+
+.hobby1 {
+float: right;
+margin-left: 30px;
+clear: left;
+
+}
+.hobby-description {
+margin: 0px;
+}
+
+
+.buttonClass {
+  font-size:15px;
+  padding: 2px;
+font-family: 'Merriweather', cursive;
+  width:140px;
+  height:50px;
+  border-width:12px;
+  color:#fff;
+  border-color:#18ab29;
+  font-weight:bold;
+  border-top-left-radius:10px;
+  border-top-right-radius:10px;
+  border-bottom-left-radius:10px;
+  border-bottom-right-radius:10px;
+  background:#44c767;
+}
+
+.buttonClass:hover {
+  background: #5cbf2a
+}
